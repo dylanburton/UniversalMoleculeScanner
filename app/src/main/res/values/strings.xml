@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Universal Molecule Scanner</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_library_browser">libraryBrowser</string>
+    <string name="library_browser">Browse a Library</string>
+    <string name="scan_photo">Scan a Photo</string>
+    <string name="title_activity_scan_picture">ScanPicture</string>
+    <string name="scan_description">Scan a photo to discover if a valid molecule exists</string>
+    <string name="browse_description">Browse through a list of molecules and select one to learn it\'s contents</string>
+</resources>
